@@ -1,1 +1,1 @@
-echo "# bluestock-fintech-project"
+bluestock-fintech-project
