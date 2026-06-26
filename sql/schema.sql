@@ -1,3 +1,5 @@
+##Schema 
+
 DROP TABLE IF EXISTS dim_date;
 CREATE TABLE dim_date (
     date_id INTEGER PRIMARY KEY AUTOINCREMENT,

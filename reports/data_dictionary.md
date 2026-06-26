@@ -1,8 +1,6 @@
 # Data Dictionary
 This document describes the Bluestock Mutual Fund star schema.  
 It covers all fact and dimension tables, their columns, data types, business definitions, and source references.  
-Purpose: To ensure clarity and consistency in data usage across analysis, reporting, and queries.
-
 
 ## 1. fact_performance
 | Column Name       | Data Type | Business Definition | Source |

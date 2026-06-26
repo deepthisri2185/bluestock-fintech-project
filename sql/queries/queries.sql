@@ -1,3 +1,5 @@
+##Queries
+
 -- 1. Top 5 funds by AUM
 SELECT scheme_name, fund_house, aum_crore
 FROM fact_performance
